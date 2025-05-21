@@ -39,3 +39,4 @@ while endgame != "quit":
         print("##################")
     endgame = input("\nPress enter to play again or type 'quit' to quit the game: ").lower()
 print("\nThanks for playing!")
+print("Hope you enjoyed")
